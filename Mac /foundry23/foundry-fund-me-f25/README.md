@@ -64,5 +64,3 @@ $ forge --help
 $ anvil --help
 $ cast --help
 ```
-
-// cmd+Shift+P brings command pallete up
