@@ -4,3 +4,9 @@
 [submodule "foundry-fund-me-f24/lib/chainlink-brownie-contracts"]
 	path = foundry-fund-me-f24/lib/chainlink-brownie-contracts
 	url = https://github.com/smartcontractkit/chainlink-brownie-contracts
+[submodule "Mac/foundry23/foundry-fund-me-f25/lib/chainlink-brownie-contracts"]
+	path = Mac/foundry23/foundry-fund-me-f25/lib/chainlink-brownie-contracts
+	url = https://github.com/smartcontractkit/chainlink-brownie-contracts
+[submodule "Mac/foundry23/foundry-fund-me-f25/lib/foundry-devops"]
+	path = Mac/foundry23/foundry-fund-me-f25/lib/foundry-devops
+	url = https://github.com/Cyfrin/foundry-devops
