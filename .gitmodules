@@ -10,3 +10,6 @@
 [submodule "Mac/foundry23/foundry-fund-me-f25/lib/foundry-devops"]
 	path = Mac/foundry23/foundry-fund-me-f25/lib/foundry-devops
 	url = https://github.com/Cyfrin/foundry-devops
+[submodule "lib/chainlink-brownie-contracts"]
+	path = lib/chainlink-brownie-contracts
+	url = https://github.com/smartcontractkit/chainlink-brownie-contracts
