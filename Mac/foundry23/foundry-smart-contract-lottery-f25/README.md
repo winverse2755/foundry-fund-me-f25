@@ -21,7 +21,14 @@ https://book.getfoundry.sh/
 $ forge build
 ```
 
-### Test
+### Tests!
+
+1. Write deploy scripts
+   1. Note, these might not work on zkSync
+2. Write tests
+   1. Local chain
+   2. Forked testnet
+   3. Forked mainet
 
 ```shell
 $ forge test

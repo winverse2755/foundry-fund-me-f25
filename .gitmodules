@@ -16,3 +16,15 @@
 [submodule "Mac/foundry23/foundry-smart-contract-lottery-f25/lib/forge-std"]
 	path = Mac/foundry23/foundry-smart-contract-lottery-f25/lib/forge-std
 	url = https://github.com/foundry-rs/forge-std
+[submodule "Mac/foundry23/foundry-smart-contract-lottery-f25/lib/chainlink"]
+	path = Mac/foundry23/foundry-smart-contract-lottery-f25/lib/chainlink
+	url = https://github.com/smartcontractkit/chainlink
+[submodule "Mac/foundry23/foundry-smart-contract-lottery-f25/lib/chainlink-brownie-contracts"]
+	path = Mac/foundry23/foundry-smart-contract-lottery-f25/lib/chainlink-brownie-contracts
+	url = https://github.com/smartcontractkit/chainlink-brownie-contracts
+[submodule "Mac/foundry23/foundry-smart-contract-lottery-f25/lib/solmate"]
+	path = Mac/foundry23/foundry-smart-contract-lottery-f25/lib/solmate
+	url = https://github.com/transmissions11/solmate
+[submodule "Mac/foundry23/foundry-smart-contract-lottery-f25/lib/foundry-devops"]
+	path = Mac/foundry23/foundry-smart-contract-lottery-f25/lib/foundry-devops
+	url = https://github.com/cyfrin/foundry-devops
